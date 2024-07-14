@@ -36,6 +36,7 @@
         <div class="form-group">
             <label for="month">Select month:</label>
             <select id="month" name="month" class="form-control" required>
+                <option value="Select Month">Select Month</option>
                 <option value="January">January</option>
                 <option value="February">February</option>
                 <option value="March">March</option>
